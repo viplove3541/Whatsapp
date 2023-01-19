@@ -5,14 +5,14 @@ import 'firebase/compat/firestore';
 
 
 const firebaseConfig = {
-    apiKey: "AIzaSyCF2NfJG6-LBq0QDDuxIgh_wGrTcLszcgg",
-    authDomain: "whatsapp-19b87.firebaseapp.com",
-    projectId: "whatsapp-19b87",
-    storageBucket: "whatsapp-19b87.appspot.com",
-    messagingSenderId: "846561890877",
-    appId: "1:846561890877:web:c3fadf2f17a51a90c4d054",
-    measurementId: "G-Y0MR9G8JX4"
-  };
+  apiKey: "AIzaSyB0QD_FXjazRLvdnWZ1lqhyTjoQS8cPRIw",
+  authDomain: "whatsapp-clone-ea3d4.firebaseapp.com",
+  projectId: "whatsapp-clone-ea3d4",
+  storageBucket: "whatsapp-clone-ea3d4.appspot.com",
+  messagingSenderId: "106142619138",
+  appId: "1:106142619138:web:d252de155bf132847a391b",
+  measurementId: "G-0WCM75WS48"
+};
 
   // Use this to initialize the firebase App
 const firebaseApp = firebase.initializeApp(firebaseConfig);
